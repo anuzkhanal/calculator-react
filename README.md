@@ -1,2 +1,2 @@
-Calculaotr app made in react
+Calculator app made in react
 
