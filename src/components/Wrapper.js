@@ -1,6 +1,6 @@
 import React from 'react';
 
-import '../css/wrapper.css'
+import '../css/Wrapper.css'
 
 
 
